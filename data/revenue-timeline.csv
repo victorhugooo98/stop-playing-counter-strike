@@ -1,0 +1,13 @@
+period,metric,value_usd,scope,fonte_url
+2016-01_2016-08,gambling_volume,1000000000,CSGO Lounge skin betting (volume estimado),https://www.espn.com/gaming/story/_/id/17723033/washington-state-gambling-commission-orders-valve-stop-skins-gambling
+2023,annual_revenue_cs,1000000000,Counter-Strike (estimativa),https://www.business-money.com/announcements/valves-revenue-from-counter-strike-hits-1-billion-in-2023/
+2025,annual_revenue_cs2_skin_sales,1000000000,CS2 case openings (estimativa),https://www.dexerto.com/counter-strike-2/valve-made-over-1-billion-from-cs2-last-year-according-to-analysis-3303858/
+2025-03,monthly_revenue_cs2_cases,100000000,CS2 cases opened em março/2025,https://www.tweaktown.com/news/104496/valve-made-100-million-from-counter-strike-2-cases-in-just-the-last-month/index.html
+2025-03,skin_market_total,4300000000,Mercado total de skins CS2 (estoque),https://ag.ny.gov/sites/default/files/court-filings/new-york-v-valve-corporation-complaint-2026.pdf
+2025,steam_estimated_revenue,16200000000,Steam total (toda a plataforma) estimado,https://news.ycombinator.com/item?id=46139472
+lifetime,total_cases_opened,2065000000,Casos totais abertos história CS:GO + CS2,https://insider-gaming.com/valve-cs-cases-earnings/
+lifetime,total_cases_revenue_estimate,5000000000,Receita lifetime estimada com keys,https://insider-gaming.com/valve-cs-cases-earnings/
+2025,monthly_botfarm_industry_estimate,1000000,Indústria mundial de bot farms CS2 (mês),https://bitskins.com/blog/cs2-case-farming-a-look-into-one-of-the-most-lucrative/
+2025,monthly_revenue_one_botfarm_program,600000,Maior operação de bot farm individual (mês),https://bitskins.com/blog/cs2-case-farming-a-look-into-one-of-the-most-lucrative/
+ongoing,steam_marketplace_commission_pct,0.15,Comissão Valve em toda venda do Marketplace,https://www.dexerto.com/counter-strike-2/valve-made-over-1-billion-from-cs2-last-year-according-to-analysis-3303858/
+2024,sticker_record_sale,1000000,Skin/sticker mais cara individual já vendida,https://ag.ny.gov/sites/default/files/court-filings/new-york-v-valve-corporation-complaint-2026.pdf

@@ -1,0 +1,14 @@
+service_name,url,type,publicly_visible,prime_required,automation_level,monthly_estimate_usd,fonte_url
+FarmLabs,https://farmlabs.dev/,commercial_saas,yes,yes,full_ai_automation,unknown,https://farmlabs.dev/
+XteamFarm,https://xteamfarm.com/,commercial_saas,yes,yes,bot_panel_full,unknown,https://xteamfarm.com/
+CS2Interface (ASF plugin),https://github.com/Citrinate/CS2Interface,opensource_plugin,yes,yes,programmatic,n/a,https://github.com/Citrinate/CS2Interface
+ArchiSteamFarm (ASF base),https://github.com/JustArchiNET/ArchiSteamFarm,opensource_general,yes,no,trading_cards_legacy,n/a,https://github.com/redlfox/awesome-cs2-trading
+csgosmurfnation,https://csgosmurfnation.com,smurf_account_seller,yes,n/a,n/a,unknown,https://csgosmurfnation.com
+buyacsgosmurf,https://buyacsgosmurf.com/,smurf_account_seller,yes,n/a,n/a,unknown,https://buyacsgosmurf.com/
+WaytoSmurf,https://waytosmurf.com/,smurf_and_prime_seller,yes,sells_prime,n/a,unknown,https://waytosmurf.com/
+csgosmurfaccount,https://csgosmurfaccount.com/,smurf_account_seller,yes,n/a,n/a,unknown,https://csgosmurfaccount.com/
+BuyACSGO,https://buyacsgo.com/,prime_account_seller,yes,sells_prime,n/a,unknown,https://buyacsgo.com/
+Eldorado.gg CS2 accounts,https://www.eldorado.gg/cs2-accounts/a/20-1-0,marketplace_for_accounts,yes,n/a,n/a,unknown,https://www.eldorado.gg/cs2-accounts/a/20-1-0
+PlayerAuctions CS2 smurfs,https://www.playerauctions.com/cs2-account/smurf/,marketplace_for_accounts,yes,n/a,n/a,unknown,https://www.playerauctions.com/cs2-account/smurf/
+industry_total_estimate,n/a,aggregate,n/a,n/a,n/a,1000000,https://bitskins.com/blog/cs2-case-farming-a-look-into-one-of-the-most-lucrative/
+single_largest_program_estimate,n/a,aggregate,n/a,n/a,n/a,600000,https://bitskins.com/blog/cs2-case-farming-a-look-into-one-of-the-most-lucrative/
