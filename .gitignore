@@ -1,0 +1,52 @@
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+!.env.example
+*.key
+
+# Cache de scraping (regerável)
+cache/
+*.cache.json
+*.cache.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+.python-version
+
+# Datasets brutos com PII (apenas hash deve ser commitado)
+data/*-raw-with-pii.csv
+data/leetify-cache-raw/
+data/friends-edges.csv
+# A versão hashada (friends-edges-hashed.csv) PODE ser publicada
+
+# Notebooks Jupyter de exploração
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code local config
+.claude/
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários do Python
+*.egg-info/
+dist/
+build/
