@@ -25,6 +25,12 @@ data/leetify-cache-raw/
 data/friends-edges.csv
 # A versão hashada (friends-edges-hashed.csv) PODE ser publicada
 
+# Pasta gerada por scripts/sanitize_for_publication.py — opt-in
+# Quando for tornar o repo público, copie data/published/* para um repositório
+# novo OU sobrescreva os CSVs originais. Não rastrear automaticamente para
+# evitar criar ambiguidade entre cópias sanitizada e working.
+data/published/
+
 # Notebooks Jupyter de exploração
 *.ipynb_checkpoints/
 
