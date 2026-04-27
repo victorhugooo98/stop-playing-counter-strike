@@ -1,0 +1,18 @@
+============================================================
+NETWORK ANALYSIS SUMMARY
+============================================================
+
+Nodes: 735
+Edges: 818
+Density: 0.00303
+Connected components: 1
+Largest component: 735 nodes
+Mean degree: 2.23
+Median clustering: 0.000
+
+============================================================
+CORRELATIONS: inventory_log vs network metrics
+============================================================
+  degree: n=204 | spearman r=0.062 (p=0.3785) | pearson r=0.334 (p=0.0000)
+  clustering: n=204 | spearman r=-0.035 (p=0.6217) | pearson r=-0.074 (p=0.2955)
+  betweenness: n=204 | spearman r=0.170 (p=0.0153) | pearson r=0.256 (p=0.0002)

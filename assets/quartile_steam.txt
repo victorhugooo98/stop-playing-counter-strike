@@ -1,0 +1,42 @@
+  CS2 hours played (cs2_hours):
+    Q1: mean=1848.174 (n=51)
+    Q2: mean=2034.489 (n=51)
+    Q3: mean=2272.130 (n=51)
+    Q4: mean=3068.575 (n=51)
+    Q1 vs Q4: t=-2.895 p=0.0048 cohen_d=0.573
+  Steam level (steam_level):
+    Q1: mean=21.647 (n=51)
+    Q2: mean=18.922 (n=51)
+    Q3: mean=16.176 (n=51)
+    Q4: mean=22.216 (n=51)
+    Q1 vs Q4: t=-0.149 p=0.8815 cohen_d=0.030
+  Player XP (Steam) (player_xp):
+    Q1: mean=5192.745 (n=51)
+    Q2: mean=3853.353 (n=51)
+    Q3: mean=5491.255 (n=51)
+    Q4: mean=5837.627 (n=51)
+    Q1 vs Q4: t=-0.312 p=0.7554 cohen_d=0.062
+  Badges count (badges_count):
+    Q1: mean=18.157 (n=51)
+    Q2: mean=13.275 (n=51)
+    Q3: mean=9.176 (n=51)
+    Q4: mean=17.824 (n=51)
+    Q1 vs Q4: t=0.078 p=0.9380 cohen_d=-0.015
+  Friends count (friends_count):
+    Q1: mean=122.176 (n=51)
+    Q2: mean=139.431 (n=51)
+    Q3: mean=140.608 (n=51)
+    Q4: mean=167.824 (n=51)
+    Q1 vs Q4: t=-2.319 p=0.0224 cohen_d=0.459
+  Account age (years) (account_age_years):
+    Q1: mean=10.068 (n=51)
+    Q2: mean=10.820 (n=51)
+    Q3: mean=9.565 (n=51)
+    Q4: mean=12.336 (n=51)
+    Q1 vs Q4: t=-2.840 p=0.0055 cohen_d=0.562
+  VAC bans count (number_of_vac_bans):
+    Q1: mean=0.039 (n=51)
+    Q2: mean=0.059 (n=51)
+    Q3: mean=0.118 (n=51)
+    Q4: mean=0.098 (n=51)
+    Q1 vs Q4: t=-1.171 p=0.2447 cohen_d=0.232

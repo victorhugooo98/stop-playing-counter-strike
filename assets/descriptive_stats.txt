@@ -1,0 +1,32 @@
+============================================================
+DESCRIPTIVE STATISTICS
+============================================================
+
+N total (public + has CS2): 735
+N with inventory data: 218
+N with nonzero inventory value: 204
+N with Leetify public profile: 33
+N with Premier rank: 26
+
+Key numeric columns:
+  cs2_hours: n=735 mean=2284.18 median=1600.70 std=2446.69 min=0.00 max=20230.62
+  total_usd: n=218 mean=38.70 median=7.36 std=149.63 min=0.00 max=1953.88
+  rank_premier: n=26 mean=17741.15 median=17726.00 std=5790.93 min=2189.00 max=28234.00
+  rank_leetify: n=33 mean=0.51 median=0.56 std=1.95 min=-3.35 max=4.49
+  winrate: n=33 mean=0.52 median=0.53 std=0.11 min=0.30 max=0.73
+  steam_level: n=735 mean=20.93 median=13.00 std=24.74 min=0.00 max=338.00
+
+Country breakdown (top 10):
+  BR: 527
+  nan: 120
+  US: 11
+  FR: 5
+  AR: 5
+  CA: 5
+  RU: 4
+  IT: 3
+  DE: 3
+  JP: 3
+
+VAC bans: 46 bans across 45 profiles
+Game bans: 26 bans across 24 profiles

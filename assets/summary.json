@@ -1,0 +1,21 @@
+{
+  "n_total": 735,
+  "n_with_inventory": 218,
+  "n_with_nonzero_inventory": 204,
+  "n_leetify_public": 33,
+  "n_leetify_with_inventory": 14,
+  "country_distribution": {
+    "BR": 527,
+    "NaN": 120,
+    "US": 11,
+    "FR": 5,
+    "AR": 5,
+    "CA": 5,
+    "RU": 4,
+    "IT": 3,
+    "DE": 3,
+    "JP": 3
+  },
+  "decision_steam": "see correlations_partial_steam.csv",
+  "decision_leetify": "see correlations_partial_leetify.csv"
+}

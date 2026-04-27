@@ -1,0 +1,23 @@
+============================================================
+VALIDATE PROXIES — SUMMARY
+============================================================
+
+N (with inventory > 0): 204
+
+VIF (>10 = severe multicollinearity):
+  cs2_hours                : 1.11
+  account_age_years        : 1.13
+  steam_level              : 14.88 [!]
+  player_xp                : 8.82
+  badges_count             : 3.55
+  friends_count            : 1.22
+
+Max VIF: 14.88
+  [!] SEVERE MULTICOLLINEARITY detected — partial-correlation interpretation in Analysis A may be unstable.
+
+PCA: 5 component(s) explain ≥95% of variance.
+  [OK] 5 independent dimensions — robust set of controls.
+
+Analysis A re-run with PCA controls: 0 metrics significant after FDR.
+
+============================================================
