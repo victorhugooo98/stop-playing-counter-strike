@@ -1,0 +1,28 @@
+============================================================
+TRUST FACTOR SATURATION — collateral evidence
+============================================================
+
+N (public + CS2): 735
+VAC banned: 45 (6.1%)
+Game banned: 24 (3.3%)
+Any ban: 68 (9.3%)
+
+Group mean differences (banned vs clean):
+  CS2 hours played           d=-0.611  p=0.0000 [sig]
+  Account age (years)        d=-0.184  p=0.1213
+  Steam level                d=-0.182  p=0.0633
+  Badges count               d=-0.159  p=0.0084 [sig]
+  Friends count              d=-0.273  p=0.0139 [sig]
+  Total games owned          d=-0.166  p=0.0851
+  Inventory value (USD)      d=-0.065  p=0.5935
+  log(Inventory + 1)         d=+0.293  p=0.0376 [sig]
+
+Logistic regression McFadden pseudo-R^2: 0.1204
+  --> Public metrics are weak predictors.
+
+Caveat:
+  - VAC bans are a NARROW signal: only the 'caught' cheaters appear.
+  - Reports-driven Trust Factor degradation is INVISIBLE in this dataset.
+  - We cannot directly observe Trust Factor or report counts; this analysis
+    only shows that simple public proxies do not predict bans, which is
+    consistent with (but does not prove) saturation/noise in the report signal.

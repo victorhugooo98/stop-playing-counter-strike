@@ -45,4 +45,5 @@ Esse é o smoking gun do pilar: a empresa que dizia ser "tecnicamente difícil" 
 | [03-smurfs-e-prime-pago.md](03-smurfs-e-prime-pago.md) | Como Prime virou US$ 14,99 e por que isso é um conflito de interesse |
 | [04-mercado-de-contas.md](04-mercado-de-contas.md) | Indústria visível de venda de smurfs |
 | [05-acao-tardia.md](05-acao-tardia.md) | Setembro/2025 — o smoking gun |
+| [06-trust-factor-saturado.md](06-trust-factor-saturado.md) | Trust Factor opaco + reports saturados = sistema funciona inversamente |
 | [fontes.md](fontes.md) | Bibliografia mínima |

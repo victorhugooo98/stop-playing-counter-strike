@@ -44,9 +44,12 @@ Lista mínima das fontes citadas neste pilar. Para a bibliografia consolidada, v
 - Eldorado.gg CS2 accounts: https://www.eldorado.gg/cs2-accounts/a/20-1-0
 - PlayerAuctions CS2 Smurfs: https://www.playerauctions.com/cs2-account/smurf/
 
-## Trust Factor (referência cruzada)
+## Trust Factor (cap. 06)
 
 - Steam Support oficial — Trust Factor Matchmaking: https://help.steampowered.com/en/faqs/view/00EF-D679-C76A-C185
-- cs.money — Trust Factor in CS2: https://cs.money/blog/games/how-do-i-raise-my-trust-factor-in-csgo/
+- cs.money — How to raise Trust Factor in CS2: https://cs.money/blog/games/how-do-i-raise-my-trust-factor-in-csgo/
 - TradeIt.gg — CS2 Trust Factor Check (2026): https://tradeit.gg/blog/checking-your-trust-factor-in-cs2/
+- Skin.Club Community — Trust Factor in CS2: https://community.skin.club/en/articles/cs2-trust-factor
 - DMarket — Trust Factor in CS2: https://dmarket.com/blog/trust-factor-in-cs2/
+- Hellcase — Tips to skyrocket Trust Factor: https://hellcase.com/blog/guides/tips-to-skyrocket-your-cs2-trust-factor/
+- Análise empírica colateral: [`scripts/analyze_trust_factor.py`](../scripts/analyze_trust_factor.py), [`assets/trust_factor_vac_predictors.csv`](../assets/trust_factor_vac_predictors.csv)

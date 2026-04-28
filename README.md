@@ -44,6 +44,7 @@ Este dossiê documenta o que é fato, o que é alegação em curso, e o que aind
 - [Smurfs e o Prime de US$ 14,99](02-vista-grossa/03-smurfs-e-prime-pago.md)
 - [O mercado de contas](02-vista-grossa/04-mercado-de-contas.md)
 - [Ação tardia: por que só agora?](02-vista-grossa/05-acao-tardia.md)
+- [Trust Factor saturado: o sistema que funciona inversamente](02-vista-grossa/06-trust-factor-saturado.md)
 
 ### [03. A Fábrica](03-fabrica/) — *XP, drops semanais e bot farms*
 > O sistema de recompensa que terceiriza a produção de cases para uma indústria de bots — e por que a Valve não tem incentivo para parar isso.

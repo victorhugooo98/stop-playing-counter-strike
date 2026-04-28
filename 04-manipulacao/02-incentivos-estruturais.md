@@ -70,6 +70,8 @@ Esse argumento ("não divulgar evita manipulação") é circular: também impede
 
 A escolha de manter **inteiramente opaco** torna **impossível** descartar — formalmente — que skins/inventário sejam variáveis. **Não confirma**. Mas a falta de transparência é **incentivo a desconfiar**.
 
+> **Ver também**: [`02-vista-grossa/06-trust-factor-saturado.md`](../02-vista-grossa/06-trust-factor-saturado.md) desenvolve a tese de que essa mesma opacidade, combinada com reports saturados de frustração, produz **inversão da função protetiva** do Trust Factor — punindo jogadores honestos com bom desempenho e protegendo cheaters/smurfs com contas novas. Análise empírica colateral em [`scripts/analyze_trust_factor.py`](../scripts/analyze_trust_factor.py).
+
 ## Incentivo 5 — Hit registration é controvertido sem ser explicado
 
 Hit registration em CS2 **continuamente** gera reclamações na comunidade:
